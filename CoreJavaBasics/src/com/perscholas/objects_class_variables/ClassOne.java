@@ -1,9 +1,9 @@
 package com.perscholas.objects_class_variables;
 
 public class ClassOne {
-	String string1;
+	public String string1;
 	public String string2;
-	protected String string3;
+	public String string3;
 	private String string4;
 	
 	public ClassOne() {
