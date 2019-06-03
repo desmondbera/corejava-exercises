@@ -221,6 +221,35 @@ public class JavaBasicsClass {
 		//43rd problem
 		ArrProgEight fortyThirdProb = new ArrProgEight();
 		
+		// 44th problem - Beginning of Regular Expressions
+		RegExProg fourtyFourthProb = new RegExProg();
+		
+		//45th problem
+		RegExProgTwo fourtyFifthProb = new RegExProgTwo();
+		
+		//46th problem
+		fourtyFifthProb.formatOutput();
+		
+		//47th problem 
+		RegExProgThree fourtySeventhProb = new RegExProgThree();
+		fourtySeventhProb.findFoundWord();
+		
+		//48th problem
+		RegExProgFour fourtyEightProb = new RegExProgFour("#2");
+		fourtyEightProb.isValidHex();
+		
+		// 49th Problem from Java Operators & Binary Numbers
+		BitLeftShift fortyNinethProb = new BitLeftShift();
+		fortyNinethProb.printBinaryOfInt();
+		//50th problem
+		BitLeftShift fiftiethProb  = new BitLeftShift();
+		fiftiethProb.shiftLeft();
+		//51st problem 
+		BitLeftShift fiftyFirstProb = new BitLeftShift(9);
+		fiftyFirstProb.printBinaryOfInt();
+		
+		BitLeftShift fiftySecondProb = new BitLeftShift(225);
+		fiftySecondProb.shiftRight();
 	}
 
 }
